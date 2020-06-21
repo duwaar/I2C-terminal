@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 '''
 A terminal interface for the i2c bus.
-Russell Jeffery
+Elaine Jeffery
 20 June 2018
 '''
 
